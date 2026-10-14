@@ -1,0 +1,188 @@
+[
+  {
+    "num": 1,
+    "title": "Cover",
+    "description": "Smart solutions for a safer, smarter tomorrow.",
+    "filename": "page-01-cover.jpg"
+  },
+  {
+    "num": 2,
+    "title": "Company Profile",
+    "description": "Who LevTech is, what we stand for, and how we approach integrated technology.",
+    "filename": "page-02-company-profile.jpg"
+  },
+  {
+    "num": 3,
+    "title": "Our Solutions",
+    "description": "One integrated portfolio spanning security, smart living, fleet visibility, power and communications.",
+    "filename": "page-03-our-solutions.jpg"
+  },
+  {
+    "num": 4,
+    "title": "Smart Home Product Categories",
+    "description": "A visual directory of smart control panels, locks, switches, cameras, modules, gateways, sensors, curtains, thermostats and smart film.",
+    "filename": "page-04-smart-home-product-categories.jpg"
+  },
+  {
+    "num": 5,
+    "title": "CCTV & Video Surveillance",
+    "description": "Cameras and coverage for homes, businesses, institutions and public-facing sites.",
+    "filename": "page-05-cctv-video-surveillance.jpg"
+  },
+  {
+    "num": 6,
+    "title": "Solar & 4G Surveillance Cameras",
+    "description": "Remote monitoring options for locations where wired power or network access is difficult.",
+    "filename": "page-06-solar-4g-surveillance-cameras.jpg"
+  },
+  {
+    "num": 7,
+    "title": "Recording, Storage & NVR/DVR Solutions",
+    "description": "Recording systems and storage infrastructure that support dependable camera deployments.",
+    "filename": "page-07-recording-storage-nvr-dvr-solutions.jpg"
+  },
+  {
+    "num": 8,
+    "title": "GPS Vehicle Tracking & Fleet Management",
+    "description": "Live location, trip history, geofencing, alerts and compatible remote immobilisation.",
+    "filename": "page-08-gps-vehicle-tracking-fleet-management.jpg"
+  },
+  {
+    "num": 9,
+    "title": "Access Control & Attendance",
+    "description": "Manage entry, credentials and attendance for offices, sites and institutions.",
+    "filename": "page-09-access-control-attendance.jpg"
+  },
+  {
+    "num": 10,
+    "title": "Digital Door Locks & Keyless Entry",
+    "description": "Smart access options across door types, form factors and supported unlocking methods.",
+    "filename": "page-10-digital-door-locks-keyless-entry.jpg"
+  },
+  {
+    "num": 11,
+    "title": "Video Intercom Systems",
+    "description": "See, speak to and manage visitors at doors, gates and building entrances.",
+    "filename": "page-11-video-intercom-systems.jpg"
+  },
+  {
+    "num": 12,
+    "title": "Smart Doorbells & Visitor Management",
+    "description": "Connected doorbells, visitor notifications and remote access from compatible devices.",
+    "filename": "page-12-smart-doorbells-visitor-management.jpg"
+  },
+  {
+    "num": 13,
+    "title": "Intrusion Alarms, Motion Sensors & Smart Security",
+    "description": "Alarm hubs, motion and contact sensors, sirens, remotes, panic buttons and connected alerting.",
+    "filename": "page-13-intrusion-alarms-motion-sensors-smart-securit.jpg"
+  },
+  {
+    "num": 14,
+    "title": "Fire Detection & Life Safety",
+    "description": "Fire alarm and detection components for earlier warning and safer spaces.",
+    "filename": "page-14-fire-detection-life-safety.jpg"
+  },
+  {
+    "num": 15,
+    "title": "Electric Fencing & Perimeter Protection",
+    "description": "Perimeter deterrence as part of a coordinated site security plan.",
+    "filename": "page-15-electric-fencing-perimeter-protection.jpg"
+  },
+  {
+    "num": 16,
+    "title": "Automated Gates & Gate Motors",
+    "description": "Controlled vehicle access and automated entry for residential and commercial sites.",
+    "filename": "page-16-automated-gates-gate-motors.jpg"
+  },
+  {
+    "num": 17,
+    "title": "Smart Home Automation",
+    "description": "Create connected routines for comfort, convenience, control and energy management.",
+    "filename": "page-17-smart-home-automation.jpg"
+  },
+  {
+    "num": 18,
+    "title": "Smart Home Control Systems",
+    "description": "Centralized touch panels and compatible control interfaces for connected spaces.",
+    "filename": "page-18-smart-home-control-systems.jpg"
+  },
+  {
+    "num": 19,
+    "title": "Smart Switches, Sockets & Modules",
+    "description": "Connected switches, outlets, relays, lighting modules and compatible circuit controls.",
+    "filename": "page-19-smart-switches-sockets-modules.jpg"
+  },
+  {
+    "num": 20,
+    "title": "Smart Plugs & Connected Appliance Control",
+    "description": "Wi-Fi and Zigbee plugs, supported energy monitoring, wall sockets, in-wall relay modules, timers and appliance scenes.",
+    "filename": "page-20-smart-plugs-connected-appliance-control.jpg"
+  },
+  {
+    "num": 21,
+    "title": "Smart Lighting & Scenes",
+    "description": "Lighting control that supports useful scenes, schedules and connected routines.",
+    "filename": "page-21-smart-lighting-scenes.jpg"
+  },
+  {
+    "num": 22,
+    "title": "Smart Sensors & Environmental Monitoring",
+    "description": "Sensors for motion, doors and windows, temperature, humidity and other automation or alerting needs.",
+    "filename": "page-22-smart-sensors-environmental-monitoring.jpg"
+  },
+  {
+    "num": 23,
+    "title": "Smart Climate Control & HVAC",
+    "description": "Thermostats, AC controllers, climate modules and supported automation for residential and commercial spaces.",
+    "filename": "page-23-smart-climate-control-hvac.jpg"
+  },
+  {
+    "num": 24,
+    "title": "Smart Window Treatments & Switchable Film",
+    "description": "Motorised curtains and blinds, plus switchable privacy film for suitable glass applications.",
+    "filename": "page-24-smart-window-treatments-switchable-film.jpg"
+  },
+  {
+    "num": 25,
+    "title": "Smart Home Hubs, Gateways & Ecosystems",
+    "description": "SONOFF Bridge Max/Bridge-M, Tuya gateways, Zigbee devices, Matter interoperability and app/voice ecosystems.",
+    "filename": "page-25-smart-home-hubs-gateways-ecosystems.jpg"
+  },
+  {
+    "num": 26,
+    "title": "Smart Home Devices & Intelligent Living",
+    "description": "Smart furniture and cabinet locks, curtain motors and tracks, connected devices and everyday smart-living applications.",
+    "filename": "page-26-smart-home-devices-intelligent-living.jpg"
+  },
+  {
+    "num": 27,
+    "title": "Smart Speakers, Voice Assistants & Whole-Home Audio",
+    "description": "Echo Show 15, Echo Show 5, Echo Spot, Echo Dot and compatible voice-led audio and connected-home control.",
+    "filename": "page-27-smart-speakers-voice-assistants-whole-home-au.jpg"
+  },
+  {
+    "num": 28,
+    "title": "Backup Power, Inverters & Battery Systems",
+    "description": "Power continuity options for essential equipment and connected installations.",
+    "filename": "page-28-backup-power-inverters-battery-systems.jpg"
+  },
+  {
+    "num": 29,
+    "title": "Solar Street Lights & Outdoor Energy",
+    "description": "Autonomous outdoor lighting for compounds, roadsides and suitable public or commercial spaces.",
+    "filename": "page-29-solar-street-lights-outdoor-energy.jpg"
+  },
+  {
+    "num": 30,
+    "title": "Networking & IP Telephony",
+    "description": "Structured cabling, LAN/Wi-Fi, network equipment and business voice connectivity.",
+    "filename": "page-30-networking-ip-telephony.jpg"
+  },
+  {
+    "num": 31,
+    "title": "One Partner. Connected Solutions.",
+    "description": "Consultation, design, installation, commissioning and after-sales support across the LevTech portfolio.",
+    "filename": "page-31-one-partner-connected-solutions.jpg"
+  }
+]

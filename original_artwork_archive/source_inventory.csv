@@ -1,0 +1,85 @@
+source_group,page_number_or_id,file_path,width_px,height_px,bytes
+selected source artwork used for rebuild,,source_artwork/gps-page-source.png,2105,1488,242057
+selected source artwork used for rebuild,01,source_artwork/page-01-cover.png,1536,1024,2219056
+selected source artwork used for rebuild,02,source_artwork/page-02-company-profile.png,1536,1024,2232505
+selected source artwork used for rebuild,03,source_artwork/page-03-our-solutions.png,1536,1024,2230468
+selected source artwork used for rebuild,04,source_artwork/page-04-product-categories.png,1536,1024,1948254
+selected source artwork used for rebuild,05,source_artwork/page-05-smart-home-automation.png,1536,1024,1997471
+selected source artwork used for rebuild,06,source_artwork/page-06-smart-home-control-systems.png,1536,1024,1832428
+selected source artwork used for rebuild,07,source_artwork/page-07-smart-locks.png,1536,1024,1925189
+selected source artwork used for rebuild,08,source_artwork/page-08-smart-switches.png,1536,1024,1987259
+selected source artwork used for rebuild,09,source_artwork/page-09-video-intercom.png,1536,1024,2042273
+selected source artwork used for rebuild,10,source_artwork/page-10-cctv-surveillance.png,1536,1024,2069236
+selected source artwork used for rebuild,11,source_artwork/page-11-solar-4g-surveillance.png,1536,1024,2163373
+selected source artwork used for rebuild,12,source_artwork/page-12-recording-solutions.png,1536,1024,2044660
+selected source artwork used for rebuild,13,source_artwork/page-13-access-control-attendance.png,1536,1024,1960176
+selected source artwork used for rebuild,14,source_artwork/page-14-gate-automation.png,1536,1024,2061770
+selected source artwork used for rebuild,15,source_artwork/page-15-fire-alarms.png,1536,1024,2008203
+selected source artwork used for rebuild,16,source_artwork/page-16-intruder-alarms.png,1536,1024,2086682
+selected source artwork used for rebuild,17,source_artwork/page-17-electric-fencing.png,1536,1024,2219858
+selected source artwork used for rebuild,18,source_artwork/page-18-smart-doorbells.png,1536,1024,2013944
+selected source artwork used for rebuild,19,source_artwork/page-19-smart-sensors.png,1536,1024,1902841
+selected source artwork used for rebuild,20,source_artwork/page-20-smart-lighting.png,1536,1024,1969687
+selected source artwork used for rebuild,21,source_artwork/page-21-smart-lighting.png,1536,1024,2023079
+selected source artwork used for rebuild,25,source_artwork/page-25-smart-climate-control.png,1536,1024,2012700
+selected source artwork used for rebuild,27,source_artwork/page-27-backup-power.png,1536,1024,2211412
+selected source artwork used for rebuild,28,source_artwork/page-28-solar-street-lights.png,1774,887,2131362
+selected source artwork used for rebuild,33,source_artwork/page-33-smart-home-devices.png,1672,941,2111399
+selected source artwork used for rebuild,34,source_artwork/page-34-smart-speakers.png,1672,941,2240012
+selected source artwork used for rebuild,36,source_artwork/page-36-smart-plugs.png,1774,887,2122764
+selected source artwork used for rebuild,37,source_artwork/page-37-smart-curtains-reference.jpg,1902,1345,350310
+selected source artwork used for rebuild,37,source_artwork/page-37-smart-home-hubs-gateways.png,1672,941,2169022
+selected source artwork used for rebuild,39,source_artwork/page-39-smart-film-reference.jpg,1902,1345,314967
+selected source artwork used for rebuild,40,source_artwork/page-40-intrusion-alarms-smart-security.png,1672,941,2191119
+selected source artwork used for rebuild,44,source_artwork/page-44-complete-solutions.png,1774,887,2398151
+unique additional high-resolution artwork,22,original_artwork_archive/high_resolution_available/page-22-smart-locks-keyless-entry.png,1536,1024,1923869
+unique additional high-resolution artwork,23,original_artwork_archive/high_resolution_available/page-23-smart-home-control-panels-centralized-automation.png,1536,1024,1985309
+unique additional high-resolution artwork,26,original_artwork_archive/high_resolution_available/page-26-smart-plugs-sockets-energy-management.png,1536,1024,1890563
+unique additional high-resolution artwork,29,original_artwork_archive/high_resolution_available/page-29-electric-fencing-perimeter-security.png,1774,887,2316323
+unique additional high-resolution artwork,30,original_artwork_archive/high_resolution_available/page-30-automated-gates-gate-motors-vehicle-access.png,1774,887,2224461
+unique additional high-resolution artwork,31,original_artwork_archive/high_resolution_available/page-31-access-control-rfid-biometric-entry.png,1774,887,2157619
+unique additional high-resolution artwork,32,original_artwork_archive/high_resolution_available/page-32-cctv-surveillance-nvr-dvr.png,1774,887,2226862
+"44-page review preview (render/JPG, not original-resolution generation)",01,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_01.jpg,1902,1345,67762
+"44-page review preview (render/JPG, not original-resolution generation)",02,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_02.jpg,1902,1345,547003
+"44-page review preview (render/JPG, not original-resolution generation)",03,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_03.jpg,1902,1345,234411
+"44-page review preview (render/JPG, not original-resolution generation)",04,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_04.jpg,1902,1345,349051
+"44-page review preview (render/JPG, not original-resolution generation)",05,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_05.jpg,1902,1345,342903
+"44-page review preview (render/JPG, not original-resolution generation)",06,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_06.jpg,1902,1345,363090
+"44-page review preview (render/JPG, not original-resolution generation)",07,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_07.jpg,1902,1345,226694
+"44-page review preview (render/JPG, not original-resolution generation)",08,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_08.jpg,1902,1345,321686
+"44-page review preview (render/JPG, not original-resolution generation)",09,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_09.jpg,1902,1345,297199
+"44-page review preview (render/JPG, not original-resolution generation)",10,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_10.jpg,1902,1345,308487
+"44-page review preview (render/JPG, not original-resolution generation)",11,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_11.jpg,1902,1345,327150
+"44-page review preview (render/JPG, not original-resolution generation)",12,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_12.jpg,1902,1345,305589
+"44-page review preview (render/JPG, not original-resolution generation)",13,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_13.jpg,1902,1345,291446
+"44-page review preview (render/JPG, not original-resolution generation)",14,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_14.jpg,1902,1345,245959
+"44-page review preview (render/JPG, not original-resolution generation)",15,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_15.jpg,1902,1345,292778
+"44-page review preview (render/JPG, not original-resolution generation)",16,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_16.jpg,1902,1345,312704
+"44-page review preview (render/JPG, not original-resolution generation)",17,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_17.jpg,1902,1345,179389
+"44-page review preview (render/JPG, not original-resolution generation)",18,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_18.jpg,1902,1345,244894
+"44-page review preview (render/JPG, not original-resolution generation)",19,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_19.jpg,1902,1345,431399
+"44-page review preview (render/JPG, not original-resolution generation)",20,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_20.jpg,1902,1345,195884
+"44-page review preview (render/JPG, not original-resolution generation)",21,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_21.jpg,1902,1345,245648
+"44-page review preview (render/JPG, not original-resolution generation)",22,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_22.jpg,1902,1345,263096
+"44-page review preview (render/JPG, not original-resolution generation)",23,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_23.jpg,1902,1345,251177
+"44-page review preview (render/JPG, not original-resolution generation)",24,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_24.jpg,1902,1345,265988
+"44-page review preview (render/JPG, not original-resolution generation)",25,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_25.jpg,1902,1345,253294
+"44-page review preview (render/JPG, not original-resolution generation)",26,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_26.jpg,1902,1345,279794
+"44-page review preview (render/JPG, not original-resolution generation)",27,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_27.jpg,1902,1345,293335
+"44-page review preview (render/JPG, not original-resolution generation)",28,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_28.jpg,1902,1345,406890
+"44-page review preview (render/JPG, not original-resolution generation)",29,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_29.jpg,1902,1345,372170
+"44-page review preview (render/JPG, not original-resolution generation)",30,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_30.jpg,1902,1345,400213
+"44-page review preview (render/JPG, not original-resolution generation)",31,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_31.jpg,1902,1345,278364
+"44-page review preview (render/JPG, not original-resolution generation)",32,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_32.jpg,1902,1345,288153
+"44-page review preview (render/JPG, not original-resolution generation)",33,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_33.jpg,1902,1345,289594
+"44-page review preview (render/JPG, not original-resolution generation)",34,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_34.jpg,1902,1345,267871
+"44-page review preview (render/JPG, not original-resolution generation)",35,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_35.jpg,1902,1345,314522
+"44-page review preview (render/JPG, not original-resolution generation)",36,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_36.jpg,1902,1345,251730
+"44-page review preview (render/JPG, not original-resolution generation)",37,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_37.jpg,1902,1345,350310
+"44-page review preview (render/JPG, not original-resolution generation)",38,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_38.jpg,1902,1345,273651
+"44-page review preview (render/JPG, not original-resolution generation)",39,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_39.jpg,1902,1345,314967
+"44-page review preview (render/JPG, not original-resolution generation)",40,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_40.jpg,1902,1345,255292
+"44-page review preview (render/JPG, not original-resolution generation)",41,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_41.jpg,1902,1345,329726
+"44-page review preview (render/JPG, not original-resolution generation)",42,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_42.jpg,1902,1345,270834
+"44-page review preview (render/JPG, not original-resolution generation)",43,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_43.jpg,1902,1345,281916
+"44-page review preview (render/JPG, not original-resolution generation)",44,original_artwork_archive/44_page_review_previews/LevTech_Catalogue_Page_44.jpg,1902,1345,179940
